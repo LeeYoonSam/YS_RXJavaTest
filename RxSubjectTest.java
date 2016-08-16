@@ -22,7 +22,7 @@ import butterknife.ButterKnife;
 import com.albert.study.BaseLoadingActivity;
 import com.albert.study.R;
 
-public class RxSamples extends BaseLoadingActivity {
+public class RxSubjectTest extends BaseLoadingActivity {
 
 	@Nullable @Bind(R.id.tvLogMessage)
 	TextView tvLogMessage;
